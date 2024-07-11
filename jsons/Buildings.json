@@ -7,9 +7,9 @@
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Free [Scout] appears <for [AI player]>"],
-		    "Free [Scout] appears <for [Human player]>"],
-			"Free [Warrior] appears <for [AI player]>"],
+		    "Free [Scout] appears <for [AI player]>",
+		    "Free [Scout] appears <for [Human player]>",
+			"Free [Warrior] appears <for [AI player]>",
 		    "Free [Warrior] appears <for [Human player]>"]
 	},
 ]

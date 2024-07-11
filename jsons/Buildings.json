@@ -2,6 +2,7 @@
 [
 	{
 		"name": "Starting Units",
+		"cost": 1,
 		"isNationalWonder": true,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",

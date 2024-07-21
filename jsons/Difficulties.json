@@ -87,7 +87,6 @@
 		"clearBarbarianCampReward": 30
 	},
 	{
-		"name": "Prince",
 		"playerBonusStartingUnits": ["Era Starting Unit","Scout"],
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit","Scout"],
 	},

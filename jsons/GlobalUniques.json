@@ -1,0 +1,18 @@
+{
+    "name": "2 Warriors 1 Scout",
+    "uniques": [
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Ancient era]>",
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Classical era]>",
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Medieval era]>",
+        "Free [Scout] appears <before turn number [1]> <for [Major]> <if starting in the [Renaissance era]>",
+        "Free [Warrior] appears <before turn number [1]>  <if starting in the [Ancient era]>",
+        "Free [Spearman] appears <before turn number [1]>  <if starting in the [Classical era]>",
+        "Free [Spearman] appears <before turn number [1]>  <if starting in the [Medieval era]>",
+        "Free [Pikeman] appears <before turn number [1]>  <if starting in the [Renaissance era]>",
+        "Free [Musketman] appears <before turn number [1]>  <if starting in the [Industrial era]>",
+        "Free [Rifleman] appears <before turn number [1]>  <if starting in the [Modern era]>",
+        "Free [Infantry] appears <before turn number [1]>  <if starting in the [Atomic era]>",
+        "Free [Infantry] appears <before turn number [1]>  <if starting in the [Information era]>",
+        "Free [Infantry] appears <before turn number [1]>  <if starting in the [Future era]>"
+    ]
+}
